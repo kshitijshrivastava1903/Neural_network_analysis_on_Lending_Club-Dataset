@@ -1,5 +1,5 @@
 # Predict whether a person will pay back your loan on the basis of his/her historical data.
-Used tensorflow's neural network model to predict whether or not a person pays back a loan on the basis of his historical data and personal details like employment details, address, loan amount, etc.
+Used tensorflow's neural network model to predict whether or not a person pays back a loan on the basis of his historical data and personal details of around 4 lakh people, like employment details, address, loan amount, etc.
 
 LENDING CLUB is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform.
 
